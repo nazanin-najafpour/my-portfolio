@@ -1,0 +1,136 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+dist/
+build/
+out/
+coverage/
+.tmp/
+.temp/
+.cache/
+.next/
+.svelte-kit/
+.sapper/
+.snowpack/
+.vite/
+.storybook/
+.cypress/
+playwright-report/
+test-results/
+.pnp/
+.pnp.js
+
+# VSCode settings
+.vscode/
+.history/
+*.code-workspace
+
+# Windows OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Compiled source
+*.tsbuildinfo
+
+# Misc
+*.local
+*.swp
+*.swo
+
+# Dependency directories for other languages
+bower_components/
+jspm_packages/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Static site generators
+public/
+
+# Next.js
+.next/
+
+# Svelte
+.svelte-kit/
+
+# Nuxt.js
+.nuxt/
+
+# Angular
+.angular/
+
+# React Native
+.expo/
+web-build/
+
+# Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+$RECYCLE.BIN/
+*.lnk
+
+# Linux files
+*~
+
+# IDEs
+.idea/
+*.iml
+
+# Parcel
+.cache/
+
+# Firebase
+.firebase/
+
+# Netlify
+.netlify/
+
+# Vercel
+.vercel/
+
+# Storybook
+out-storybook/
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Miscellaneous
+*.tgz
+*.gz
+*.zip
+*.7z
+*.tar
+*.rar
+*.bak
+*.tmp
+*.temp
+*.pid
+*.seed
+*.pid.lock
+*.pidfile
+*.log.*
+
+# Ignore lock files if you want to use only one package manager
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml

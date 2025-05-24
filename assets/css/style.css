@@ -547,6 +547,15 @@ footer > section {
     text-align: center;
 }
 
+.copyright a {
+    text-decoration: none;
+}
+
+.copyright a:hover {
+    color: #D0342C;
+    text-decoration: underline;
+}
+
 /* ------Responsiveness------*/
 /* Tablet (≥ 768px) */
 @media (min-width: 768px) {
